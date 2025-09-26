@@ -36,8 +36,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=
-LimaLourenco&theme=radical" />
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LimaLourenco&theme=radical" />
 </p>
 
 
